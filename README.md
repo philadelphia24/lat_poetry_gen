@@ -1,3 +1,5 @@
+**Important:** Due to the size of the files/ a server error, the remaining files are available on the drive: https://drive.google.com/drive/folders/1p_zk4upxpaCgEbMqDRK6pSBPAxnuXdog?usp=sharing. 
+
 # lat_poetry_gen
 Renaissance writers have long been fascinated by ancient traditions in writing and pursued a path to revive an ancient world of creative writing. This project follows a similar goal, not by taking up a pen and paper, but by teaching Latin to a computer.
 
